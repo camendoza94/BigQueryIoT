@@ -1,0 +1,23 @@
+{
+  "name": "gcpiot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camendoza94/GCPIoT.git"
+  },
+  "author": "Camilo Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camendoza94/GCPIoT/issues"
+  },
+  "homepage": "https://github.com/camendoza94/GCPIoT#readme",
+  "dependencies": {
+    "@google-cloud/bigquery": "^4.4.0"
+  }
+}
